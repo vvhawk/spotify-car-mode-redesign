@@ -1,2 +1,2 @@
-# spotify-car-mode-redesign
-🚗💨 Buckle up, music lovers! We're hitting the highway of innovation and dialing up the volume on Spotify's Car Mode! 🎵🔧 Imagine cruising down the open road, your favorite tunes playing, and a Car Mode interface so intuitive, it feels like your own personal DJ is riding shotgun. That's what I've created!
+# So, I fixed Spotify's 'Car Mode'
+🎨✨ Introducing the all-new Spotify Car Mode experience, designed for drivers who demand more from their music on the move. Gone are the days of fiddly buttons and clunky navigation. Say hello to sleek designs, smooth transitions, and features that make you go "Wow, why didn't I think of that?"
