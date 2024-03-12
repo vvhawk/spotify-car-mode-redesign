@@ -4,7 +4,7 @@
 </p>
 
 ## Overview
-🎨✨ Introducing the all-new Spotify Car Mode experience, designed for drivers who demand more from their music on the move. Gone are the days of fiddly buttons and clunky navigation. Say hello to sleek designs, smooth transitions, and features that make you go "Wow, why didn't I think of that?"
+🎨✨ Introducing the all-new Spotify Car Mode experience, designed for drivers who demand more from their music on the move. Gone are the days of fiddly buttons and clunky navigation. Say hello to sleek designs, smooth transitions, and features that make you go "Wow, where was all this before?"
 ## Background
 - This study was undertaken as part of my [Human Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction) course at [Georgia Tech](https://omscs.gatech.edu/) 🐝.
 
